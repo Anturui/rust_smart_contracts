@@ -1,5 +1,5 @@
 {
-    "terminal.integrated.cwd": "C:\\Users\\Arwielao\\Rust\\smart_contracts_learings\\rust_smart_contracts\\solana\\dapp_contracts",
+    "terminal.integrated.cwd": "C:\\Users\\Arwielao\\Rust\\smart_contracts_learings\\rust_smart_contracts",
     "rust-analyzer.linkedProjects": [
         "./Cargo.toml",
         "./programs/my_project/Cargo.toml",
