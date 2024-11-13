@@ -1,3 +1,0 @@
-[submodule "solana/contracts/solana-program-library"]
-	path = solana/contracts/solana-program-library
-	url = https://github.com/solana-labs/solana-program-library.git
